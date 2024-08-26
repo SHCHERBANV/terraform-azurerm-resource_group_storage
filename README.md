@@ -20,5 +20,5 @@ echo "*.tfstate.*" >> .gitignore
 echo ".terraform/" >> .gitignore
 
 # Add all files to Git
-git add README.md LICENSE .gitignore
-git commit -m "Initial commit"
+'''git add README.md LICENSE .gitignore'''
+''' git commit -m "Initial commit" '''
