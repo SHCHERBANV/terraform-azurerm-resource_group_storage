@@ -1,6 +1,5 @@
-# terraform-azurerm-resource_group_storage
 # Initialize Git repository
-'git init'
+git init
 
 # Add files to Git
 git add main.tf variables.tf outputs.tf
