@@ -1,9 +1,13 @@
 # Initialize Git repository
+'''
 git init
+'''
 
 # Add files to Git
-git add main.tf variables.tf outputs.tf
 
+'''
+git add main.tf variables.tf outputs.tf
+'''
 # Create README.md
 echo "# terraform-azurerm-resource_group_storage" > README.md
 echo "## Usage" >> README.md
